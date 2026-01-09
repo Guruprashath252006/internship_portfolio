@@ -370,3 +370,4 @@ function lazyLoadImages() {
 
 console.log('%c👋 Hello Developer!', 'font-size: 20px; font-weight: bold; color: #8a5cf6;');
 console.log('%cInterested in how this was built? Check out the source code!', 'font-size: 14px; color: #a78bfa;');
+
